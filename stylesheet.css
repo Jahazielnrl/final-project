@@ -15,7 +15,7 @@ a{
     text-decoration: none;
     font-weight: bold;
     font-size: 1.6rem;
-    color: #fff; 
+    color: whitesmoke; 
 }
 
 h1{
@@ -59,6 +59,29 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    color: whitesmoke;
+}
+
+.logo h1{
+    font-size: 3.2rem;
+    color: whitesmoke;
+    margin: 0;
+
+}
+
+nav{
+    padding: 2% 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    list-style-type: none;
+
+}
+
+nav ul li{
+    display: inline-block;
 }
 
 /* nav{
