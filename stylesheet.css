@@ -82,6 +82,12 @@ nav ul{
 
 nav ul li{
     display: inline-block;
+    margin-left: 2.5rem;
+}
+
+nav ul li a:hover{
+    color: yellow;
+    transition: .25s ease-in-out;
 }
 
 /* nav{
@@ -108,8 +114,8 @@ nav ul li{
 
 
 
-/* }
-.navbar{
+/* } */
+/* .navbar{
     width: 85%;
     margin: auto;
     padding: 35px 0;;
