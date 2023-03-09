@@ -22,18 +22,20 @@ h1{
     font-weight: 800;
     font-size: 3.6rem;
     margin: 1.6rem;
+    color: whitesmoke;
 }
 
 h2{
     font-weight: 800;
     font-size: 2.4rem;
     margin: 1.6rem 0;
+    color: whitesmoke;
 }
 
 p{
     font-weight: 400;
     font-size: 1.8rem;
-    margin: 1.6rem 0;
+    margin: 1.6rem ;
 }
 
 img{
@@ -88,6 +90,20 @@ nav ul li{
 nav ul li a:hover{
     color: yellow;
     transition: .25s ease-in-out;
+}
+
+.header-content{
+    width: 50%;
+    position: relative;
+    top: 16%;
+    left: 8%;
+}
+
+.about-left,
+.about-middle,
+.about-right{
+    flex-basis: 30%;
+    padding: 1.6rem;
 }
 
 /* nav{
