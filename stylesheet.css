@@ -154,6 +154,27 @@ nav ul li a:hover{
     background-position: center;
     color: whitesmoke;
 }
+
+.gloves-content{
+    width: 50%;
+    position: relative;
+    top: 16%;
+    left: 8%;
+}
+
+.mats-content{
+    width: 50%;
+    position: relative;
+    top: 16%;
+    left: 8%;
+}
+
+.mouth-gaurd-content{
+    width: 50%;
+    position: relative;
+    top: 16%;
+    left: 8%;
+}
 /* nav{
     display: flex;
     justify-content: space-around;
