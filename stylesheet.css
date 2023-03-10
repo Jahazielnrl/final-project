@@ -126,6 +126,34 @@ nav ul li a:hover{
 .contact{
     background-color: #9e9e9e;
 }
+
+.gloves-nav{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.6)),url('img/gloves.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+}
+
+.mats-nav{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.6)),url('img/mats.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+
+}
+
+.mouth-gaurd-nav{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.6)),url('img/mouth-guard.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+}
 /* nav{
     display: flex;
     justify-content: space-around;
