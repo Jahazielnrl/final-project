@@ -21,7 +21,7 @@ a{
 h1{
     font-weight: 800;
     font-size: 3.6rem;
-    margin: 1.6rem;
+    margin: 1.6rem 0;
     color: whitesmoke;
 }
 
@@ -35,7 +35,7 @@ h2{
 p{
     font-weight: 400;
     font-size: 1.8rem;
-    margin: 1.6rem ;
+    margin: 1.6rem 0;
     color: whitesmoke;
 }
 
@@ -122,6 +122,9 @@ nav ul li a:hover{
 
 .gloves .row{
     justify-content: center;
+}
+.contact{
+    background-color: #9e9e9e;
 }
 /* nav{
     display: flex;
