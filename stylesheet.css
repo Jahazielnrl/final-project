@@ -107,7 +107,6 @@ nav ul li a:hover {
 }
 
 .mouth-gaurd {
-  background-color: #9e9e9e;
   color: whitesmoke;
 }
 
@@ -121,9 +120,6 @@ nav ul li a:hover {
 
 .gloves .row {
   justify-content: center;
-}
-.contact {
-  background-color: #9e9e9e;
 }
 
 .gloves-nav {
@@ -178,5 +174,9 @@ nav ul li a:hover {
 }
 
 .about-gloves .row {
+  justify-content: center;
+}
+.prod-header {
+  display: flex;
   justify-content: center;
 }
