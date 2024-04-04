@@ -180,3 +180,6 @@ nav ul li a:hover {
   display: flex;
   justify-content: center;
 }
+.footer-contact {
+  padding-left: 25px;
+}
